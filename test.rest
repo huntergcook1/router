@@ -1,0 +1,8 @@
+POST http://loscalhost:3000/student/search HTTP/
+
+content-type: application/json
+
+{
+  "name": "John ",
+  "id": "123"
+}
